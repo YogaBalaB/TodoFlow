@@ -1,0 +1,36 @@
+﻿--- Current Directory ---
+D:\project\TodoFlow\backend
+--- Node Processes ---
+
+   Id ProcessName StartTime             
+   -- ----------- ---------             
+15056 node        02-07-2026 07:14:23 PM
+15852 node        02-07-2026 07:14:24 PM
+17344 node        02-07-2026 07:31:41 PM
+22748 node        02-07-2026 07:31:40 PM
+
+
+
+--- Node Process CommandLines ---
+
+ProcessId CommandLine                                                          
+--------- -----------                                                          
+    15056 "C:\Program Files\nodejs\node.exe" "C:\Program Files\nodejs/node_m...
+    15852 "node"   "D:\project\TodoFlow\frontend\node_modules\.bin\\..\expo\...
+    22748 "C:\Program Files\nodejs\node.exe" "C:\Program Files\nodejs/node_m...
+    17344 "node"   "D:\project\TodoFlow\backend\node_modules\.bin\\..\ts-nod...
+
+
+
+--- Netstat :5000 ---
+
+  UDP    0.0.0.0:50001          *:*                                    3988
+
+
+
+--- Netstat :27017 ---
+
+--- Mongo Binary ---
+
+--- Mongo Service ---
+
